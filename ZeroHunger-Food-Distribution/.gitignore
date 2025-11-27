@@ -1,0 +1,16 @@
+// default .gitignore
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+bin/
+obj/
+
+*.nupkg
+packages/
+
+*.log
+
+*.DS_Store
