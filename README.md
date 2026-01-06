@@ -1,6 +1,6 @@
 ## Architecture Overview
 
-This solution follows a **3-Layer Architecture** to ensure separation of concerns:
+**3-Layer Architecture** to ensure separation of concerns:
 
 1.  **SampleAPI.API (Presentation)**: Handles HTTP requests, controllers, and DTO mappings.
 2.  **SampleAPI.BLL (Business Logic)**: Contains core business rules and service interfaces.
