@@ -31,8 +31,6 @@ SampleAPI/
 ├── SampleAPI.BLL/                
 │   │
 │   ├── Interfaces/
-│   │   ├── Repositories/
-│   │   │
 │   │   └── Services/
 │   │
 │   ├── Services/
